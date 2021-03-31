@@ -1,9 +1,0 @@
-README.md
-setup.py
-TextCollectionsLibrary/__init__.py
-TextCollectionsLibrary/datasets.py
-TextCollectionsLibrary.egg-info/PKG-INFO
-TextCollectionsLibrary.egg-info/SOURCES.txt
-TextCollectionsLibrary.egg-info/dependency_links.txt
-TextCollectionsLibrary.egg-info/requires.txt
-TextCollectionsLibrary.egg-info/top_level.txt
