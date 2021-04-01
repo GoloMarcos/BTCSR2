@@ -12,7 +12,8 @@ def load(path_files=''):
   this function changes the current directory, remember to go back to the directory you were in
   '''
 
-  os.chdir(path_files)
+  if path_files != '':
+    os.chdir(path_files)
 
   if not Path('CSTR.parquet').is_file():
     os.system('gdown --id 1-Q7VXXkdGGxIYmIDuotlN3sXNVy-RtYd') # CSTR
