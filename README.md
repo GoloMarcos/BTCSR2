@@ -1,7 +1,14 @@
 # Bechmarking of text collections from Solange, Ricardo and Rafael (BTCSR2)
 
 # TextCollectionsLibrary
-Library to use the text collectins present in the article: Benchmarking Text Collections for Classification and Clustering Tasks. The article are avaliable at "http://repositorio.icmc.usp.br/bitstream/handle/RIICMC/6641/Relat%C3%B3rios%20T%C3%A9cnicas_395_2013.pdf?sequence=1"
+Library to use the text collectins present in the article: Benchmarking Text Collections for Classification and Clustering Tasks. If you use any part of this code in your research, please cite it using the following BibTex entry
+```latex
+@article{ref:Rossi2013,
+  title={Benchmarking text collections for classification and clustering tasks},
+  author={Rossi, Rafael Geraldeli and Marcacini, Ricardo Marcondes and Rezende, Solange Oliveira},
+  year={2013}
+}
+```
 
 # How To use
 
